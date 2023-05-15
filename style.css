@@ -1,0 +1,23 @@
+:root {
+  --verde: #DAFF01;
+  --lilas: #9353FF;
+}
+
+.texto-menor {
+  font-size: 13px;
+}
+
+.div-facilidades {
+  width: 325px;
+}
+
+.texto__facilidades,
+.bi-x-diamond,
+.bi-arrow-repeat,
+.bi-flower1 {
+  color: var(--verde);
+}
+
+.btn-lilas {
+  background-color: var(--lilas) !important;
+}
